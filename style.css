@@ -1,0 +1,14 @@
+.index-h2{
+    color: red;
+}
+p{
+    color: green;
+}
+.index-intro p{
+    color: hotpink;
+}
+h1{
+    font-size: 20px;
+    font-style: italic;
+    color: lawngreen;
+}
